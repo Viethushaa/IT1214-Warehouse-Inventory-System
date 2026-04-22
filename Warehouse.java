@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Warehouse {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        Inventory inventory = new Inventory();
+        Inventory inventory = new Inventory(); //Inventory creation
 
         int choice;
 
